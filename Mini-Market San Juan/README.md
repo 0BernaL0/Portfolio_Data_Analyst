@@ -89,12 +89,14 @@ El dataset contiene ventas de septiembre y octubre de 2025.
 ## Visuales
 
 ### Resumen Mensual
+![Resumen Mensual](images/Resumen%20Mensual.png)
 - Tarjetas KPI: ingresos totales, diferencia de stock, productos bajo stock mínimo, productos sin ventas.
 - Segementador de datos: filtros por producto y por mes.
 - Gráficos de Barras: Ingresos totales por producto, frecuencia de compra de los clientes, Stock Actual vs Stock Mínimo.
 - Tabla de detalle: Productos y ingresos totales.
 
 ### Comparativa mes a mes
+![Comparativa Mes a Mes](images/Comparativa%20Mes%20a%20Mes.png)
 - Gráfico de líneas: evolución de ingresos por mes.
 - Tarjetas KPI: ingresos totales y variación mensual.
 - Tabla de detalle: unidades vendidas y ingresos por producto con sus fechas.
