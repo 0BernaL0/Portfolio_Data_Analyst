@@ -163,4 +163,27 @@ FORMAT(
 
 ![Dashboard](dashboard_preview.png)
 
--
+- **Gráfico de línea** — Promedio de cotizaciones por año
+- **Tarjetas KPI** — Cotización máxima y mínima histórica con su fecha
+- **Gráfico de barras** — Cotización al inicio y fin de cada año
+- **Gráfico de barras** — Promedio de cotizaciones por mes
+- **Gráfico de área** — Porcentaje de variación año a año
+
+---
+
+## Conclusiones
+
+El dólar americano mostró una tendencia alcista sostenida en Paraguay durante 
+el período analizado, pasando de un promedio de 5.668 Gs en 2016 a un pico 
+de 8.030 Gs en abril de 2025 — su valor máximo histórico en el dataset. 
+Incluso en su punto más bajo (5.408 Gs en marzo de 2017) se mantuvo por 
+encima de los 5.000 Gs, evidenciando estabilidad en el piso de la cotización.
+
+A partir de 2020 se observa una aceleración en la suba, coincidiendo con el 
+contexto económico global. El dólar se mantuvo por encima de los 6.000 Gs 
+desde 2019 hasta la fecha del dataset. El pico se registró a finales de 2024 
+e inicios de 2025, seguido de una caída notable hacia finales de ese año.
+
+Los valores de 2026 muestran una baja pronunciada en el porcentaje de 
+variación, lo cual se explica porque el dataset solo contiene datos hasta 
+el 12 de mayo de 2026 al momento de su extracción.
